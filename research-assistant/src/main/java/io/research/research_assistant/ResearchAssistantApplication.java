@@ -14,14 +14,4 @@ public class ResearchAssistantApplication {
 		SpringApplication.run(ResearchAssistantApplication.class, args);
 	}
 
-//	@Bean
-//	public WebClient.Builder webClientBuilder() {
-//		return WebClient.builder();
-//	}
-//
-//	@Bean
-//	public ObjectMapper objectMapper() {
-//		return new ObjectMapper(); // Or customize it if needed
-//	}
-
 }
